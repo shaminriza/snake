@@ -1,5 +1,9 @@
 # snake
 Use buttons
+
+
+
+
 A- Left
 D- Right
 S- Down
